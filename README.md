@@ -7,9 +7,10 @@ objetos se desplazan en el espacio tridimensional, el objetivo consiste en tirar
 marcar goles, realizando a su vez un conteo de los mismos.
 
 El juego hace uso de diferentes interfaces gráficas y elementos multimedia para dotar al programa de 
-interactividad, desde la aplicación podremos desplegar un mini menú de configuración desde el cual 
-cambiaremos algunas opciones durante el juego, activando o desactivando la gravedad del mundo, mostrando
-o no algunas opciones debug, visualizando los polígonos de los objetos, etc..
+interactividad, desde la aplicación tendremos la posibilidad de elegir la resolución de pantalla y algunas
+opciones gráficas, podremos desplegar un mini menú de configuración desde el cual cambiaremos algunas 
+opciones durante el juego, activando o desactivando así la gravedad del mundo, mostrando o no algunas opciones debug, 
+visualizando los polígonos de los objetos, etc..
 
 Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable '.jar' con el 
 proyecto construido y listo para ser ejecutado de manera gráfica, a su vez, hemos incluido las librerías
