@@ -12,7 +12,7 @@ opciones gráficas, podremos desplegar un mini menú de configuración desde el 
 opciones durante el juego, activando o desactivando así la gravedad del mundo, mostrando o no algunas opciones debug, 
 visualizando los polígonos de los objetos, etc..
 
-Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable '.jar' con el 
+Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable .jar con el 
 proyecto construido y listo para ser ejecutado de manera gráfica, a su vez, hemos incluido las librerías
 necesarias para poder importar el juego en cualquier IDE's sin problemas.
 
