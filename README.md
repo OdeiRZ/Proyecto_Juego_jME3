@@ -20,7 +20,7 @@ necesarias para poder importar el juego en cualquier IDE's sin problemas.
 - [Java] 7 o superior (para ejecutar la Aplicación)
 
 ## Entorno de desarrollo
-La Aplicación ha sido desarrollada utilizando el [SDK jMonkeyEngine] pero también es posible su desarrollo
+La aplicación ha sido desarrollada utilizando el [SDK jMonkeyEngine] pero también es posible su desarrollo
 e importanción en [NetBeans], [Eclipe] y demás IDE's.
 
 ## Licencia
